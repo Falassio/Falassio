@@ -26,7 +26,7 @@ I specialize in **turning complex business requirements and strict compliance co
 
 ### 🏗️ Flagship Systems & Architectures
 
-#### 🏥 **MIP – Enterprise Healthcare Management Platform**
+#### 🏥 ** *** - Enterprise Healthcare Management Platform**
 > *High-Security Medical Coordination & Clinical Dispatch System*
 * **Security & Compliance:** Built a multi-tenant platform complying with strict **GDPR** standards. Implemented **AES-256-GCM encryption** for sensitive clinical and patient records, 2FA/TOTP authentication, and tamper-resistant audit trails with 7-year retention.
 * **Access Control & Routing:** Engineered a 5-tier hierarchical **RBAC** (`Superadmin → Admin → Regional Manager → Doctor → Patient`) enforcing strict server-side boundary checks between operational dispatch and clinical diagnosis data.
