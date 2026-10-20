@@ -1,4 +1,4 @@
-# ⚡ Alessio Falanga
+# Alessio Falanga
 ### **Software Architect & Systems Engineer**
 *Distributed Architectures · Zero-Trust & GDPR-Compliant Systems · Deterministic AI & Vector Search*
 
