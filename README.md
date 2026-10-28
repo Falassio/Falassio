@@ -63,14 +63,13 @@ I specialize in **turning complex business requirements and strict compliance co
 ---
 
 ### 🛠️ Core Technology Matrix
-┌──────────────────────────────┬──────────────────────────────────────────────────────────┐ 
-│ Category                     │ Technologies & Frameworks                                │ 
-├──────────────────────────────┼──────────────────────────────────────────────────────────┤ 
-│ Core & Frameworks            │ TypeScript, Python 3.12, Dart, Nuxt 4 (Vue 3), FastAPI   │ 
-│ Data & Storage               │ PostgreSQL, SQLite, Drizzle ORM, Prisma, Supabase        │ 
-│ AI, ML & Semantic Search     │ PyTorch, HuggingFace, LightGBM, SHAP, SPARQL, Gemini/GPT │
-│ Security & Protocols         │ AES-256-GCM, RBAC, TOTP 2FA, VIES, REST, OpenAPI v3      │ 
-│ Cloud, DevOps & Testing      │ Docker, Docker Compose, GitHub Actions CI/CD, Pytest     │ └──────────────────────────────┴──────────────────────────────────────────────────────────┘
+│ Category                      Technologies & Frameworks        
+
+│ Core & Frameworks             TypeScript, Python 3.12, Dart, Nuxt 4 (Vue 3), FastAPI    
+│ Data & Storage                PostgreSQL, SQLite, Drizzle ORM, Prisma, Supabase        
+│ AI, ML & Semantic Search      PyTorch, HuggingFace, LightGBM, SHAP, SPARQL, Gemini/GPT 
+│ Security & Protocols          AES-256-GCM, RBAC, TOTP 2FA, VIES, REST, OpenAPI v3      
+│ Cloud, DevOps & Testing       Docker, Docker Compose, GitHub Actions CI/CD, Pytest      
 
 ---
 
